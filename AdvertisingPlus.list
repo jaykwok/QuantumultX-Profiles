@@ -1,0 +1,4 @@
+host, api-access.pangolin-sdk-toutiao-b.com, reject
+host, mssdk-bu.bytedance.com, reject
+host-suffix, pglstatp-toutiao.com, reject
+host, mon.zijieapi.com, reject
