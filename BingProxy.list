@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,visualstudio.com, proxy
 DOMAIN-SUFFIX,windows.com, proxy
 DOMAIN-SUFFIX,windows.net, proxy
 DOMAIN-SUFFIX,virtualearth.net, proxy
+DOMAIN-SUFFIX,amazonaws.com, proxy
 
 #Reject
 DOMAIN-SUFFIX,adjust.com, reject
