@@ -3,6 +3,7 @@ host-keyword,bing, proxy
 host-keyword,msn, proxy
 DOMAIN-KEYWORD,microsoft, proxy
 DOMAIN-SUFFIX,clarity.ms, proxy
+DOMAIN-SUFFIX,appcenter.ms, proxy
 DOMAIN-SUFFIX,1drv.com, proxy
 DOMAIN-SUFFIX,akamaihd.net, proxy
 DOMAIN-SUFFIX,akamaized.net, proxy
