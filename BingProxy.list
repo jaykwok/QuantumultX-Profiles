@@ -1,10 +1,11 @@
-# > Microsoft
-host-keyword, bing, proxy
-DOMAIN-KEYWORD,microsoft,proxy
-DOMAIN-SUFFIX,1drv.com,proxy
-DOMAIN-SUFFIX,akamaihd.net,proxy
-DOMAIN-SUFFIX,akamaized.net,proxy
-DOMAIN-SUFFIX,bing.com,proxy
+#Proxy
+host-keyword,bing, proxy
+host-keyword,msn, proxy
+DOMAIN-KEYWORD,microsoft, proxy
+DOMAIN-SUFFIX,1drv.com, proxy
+DOMAIN-SUFFIX,akamaihd.net, proxy
+DOMAIN-SUFFIX,akamaized.net, proxy
+DOMAIN-SUFFIX,bing.com, proxy
 DOMAIN-SUFFIX,bing.net, proxy
 DOMAIN-SUFFIX,cloudappsecurity.com, proxy
 DOMAIN-SUFFIX,docs.com, proxy
@@ -14,7 +15,6 @@ DOMAIN-SUFFIX,live.net, proxy
 DOMAIN-SUFFIX,msauth.net, proxy
 DOMAIN-SUFFIX,msecnd.net, proxy
 DOMAIN-SUFFIX,msedge.net, proxy
-DOMAIN-SUFFIX,msn.com, proxy
 DOMAIN-SUFFIX,msocdn.com, proxy
 DOMAIN-SUFFIX,office.com, proxy
 DOMAIN-SUFFIX,office.net, proxy
@@ -29,3 +29,7 @@ DOMAIN-SUFFIX,svc.ms, proxy
 DOMAIN-SUFFIX,visualstudio.com, proxy
 DOMAIN-SUFFIX,windows.com, proxy
 DOMAIN-SUFFIX,windows.net, proxy
+DOMAIN-SUFFIX,virtualearth.net, proxy
+
+#Reject
+DOMAIN-SUFFIX,adjust.com, reject
