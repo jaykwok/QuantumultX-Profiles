@@ -3,3 +3,4 @@ host, mssdk-bu.bytedance.com, reject
 host-suffix, pglstatp-toutiao.com, reject
 host, mon.zijieapi.com, reject
 host, bootpreload.uve.weibo.com, reject
+host, adstrategy.biz.weibo.com, reject
