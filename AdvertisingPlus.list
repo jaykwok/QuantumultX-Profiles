@@ -4,3 +4,4 @@ host-suffix, pglstatp-toutiao.com, reject
 host, mon.zijieapi.com, reject
 host, bootpreload.uve.weibo.com, reject
 host, adstrategy.biz.weibo.com, reject
+host-suffix, biz.weibo.com, reject 
