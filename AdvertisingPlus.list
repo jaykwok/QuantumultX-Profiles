@@ -9,3 +9,5 @@ host, vip.lz-cdn16.com, direct
 host-suffix, freeyunji.com, direct
 host, vip.ffzy-online1.com, direct
 host-keyword, vip, direct
+host-suffix, mzstatic.com, direct
+host-suffix, doubanio.com, direct
