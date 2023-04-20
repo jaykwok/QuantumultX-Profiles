@@ -1,7 +1,8 @@
 host, api-access.pangolin-sdk-toutiao-b.com, reject
 host, mssdk-bu.bytedance.com, reject
 host-suffix, pglstatp-toutiao.com, reject
-host, mon.zijieapi.com, reject
+host-suffix, zijieapi.com, reject
 host, bootpreload.uve.weibo.com, reject
 host, adstrategy.biz.weibo.com, reject
 host-suffix, biz.weibo.com, reject 
+host, vip.lz-cdn16.com, direct
