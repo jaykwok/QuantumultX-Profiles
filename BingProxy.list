@@ -1,7 +1,6 @@
 #Proxy
 host-keyword,bing, proxy
 host-keyword,msn, proxy
-host-keyword,nicegram, proxy
 DOMAIN-KEYWORD,microsoft, proxy
 DOMAIN-SUFFIX,clarity.ms, proxy
 DOMAIN-SUFFIX,appcenter.ms, proxy
